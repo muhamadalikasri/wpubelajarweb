@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>form</title>
+</head>
+
+<body>
+   <h1> Contoh Elemen-elemen form pada HTML</h1>
+   <form action="" method="get">
+
+      <label for="name">NAMA :
+         <input type="text" name="name" id="name" placeholder="Masukkan nama lengkap" autocomplete="off" required>
+      </label>
+      <br>
+      <label for="passworr"> Password :
+         <input type="password" name="password" id="password" placeholder="Masukkan password" autocomplete="off"
+            required>
+      </label>
+      <br>
+      <label for="email">Email :
+         <input type="email" name="email" id="email" placeholder="Masukkan email aktif" autocomplete="off" required>
+      </label>
+      <br>
+      <label for="angka">Angka :
+         <input type="number" name="angka" id="angka" placeholder="Masukkan angka" autocomplete="off" required
+            minlength="1" maxlength="100" step="5">
+      </label>
+      <br>
+      <label for="tanggal"> Tanggal :
+         <input type="date" name="tanggal" id="tanggal" required>
+      </label>
+      <br>
+      <label for="warna">Pilih Warna :
+         <input type="color" name="warna" id="warna" required>
+      </label>
+      <br>
+      <input type="submit" value="Submit">
+
+   </form>
+
+
+</body>
+
+</html>

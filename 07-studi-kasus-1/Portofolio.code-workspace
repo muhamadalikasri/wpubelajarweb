@@ -1,0 +1,40 @@
+{
+  "folders": [
+	{
+		"path": "../../Portofolio"
+	},
+	{
+		"path": "../../Web_sederhana"
+	},
+	{
+		"path": "../../belajar-react/tokofashion"
+	},
+	{
+		"path": "../../Porfolio_Kasri"
+	},
+	{
+		"path": "../../Tailwind_project"
+	},
+	{
+		"path": "../../tailwind_css"
+	},
+	{
+		"path": "C:/xampp/htdocs/tokofashion"
+	},
+	{
+		"path": "../../belajarJs"
+	},
+	{
+		"path": "../../belajar_html"
+	},
+	{
+		"path": "../../uld_unimuda"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "wpubelajarweb"
+  }
+}

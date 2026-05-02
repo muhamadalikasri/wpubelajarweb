@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../deploy-kelas"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "wpubelajarweb"
+  }
+}
